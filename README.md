@@ -34,4 +34,4 @@ Interpretability and Explainability: Logistic regression models offer interpreta
 Precision-Recall Trade-off: The precision-recall curve provides a useful visualization to understand the trade-off between precision and recall at different threshold values. It aids in selecting an optimal threshold based on the desired balance between precision and recall.
 
 Conclusion:
-In conclusion, this project involved developing a lead scoring model for X Education to identify potential customers with higher conversion likelihood. The systematic approach of data understanding, cleaning, exploratory data analysis, feature engineering, and model building provided valuable insights and a model with promising results. By following best practices in data preprocessing and
+In conclusion, this project involved developing a lead scoring model for X Education to identify potential customers with higher conversion likelihood. The systematic approach of data understanding, cleaning, exploratory data analysis, feature engineering, and model building provided valuable insights and a model with promising results.
